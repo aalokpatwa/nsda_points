@@ -1,4 +1,4 @@
-# nsda_points
+# NSDA Points Categorization
 ## Aalok Patwa 2020
 
 [The National Speech and Debate Association](https://speechanddebate.org) allocates points to competitors for their performance at tournaments. However, there does not exist a way to see a precise breakdown of a competitor's points **across the different events they compete in**.

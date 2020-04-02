@@ -22,7 +22,7 @@ OUTPATH = "insert_path_here"
 COACHLIST = ["Coach 1", "Coach 2", "Coach 3"]
 
 #Read the entries CSV into a dataframe
-df = pd.read_csv(csv_file, delimiter=",")
+df = pd.read_csv(CSV_PATH, delimiter=",")
 
 #Create an "empty" DataFrame to hold the points tallies
 tally_df = pd.DataFrame(index=[0])
